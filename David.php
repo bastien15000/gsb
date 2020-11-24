@@ -1,1 +1,0 @@
-Salut moi c'est David Chrzan et je suis pas ouf en php !
