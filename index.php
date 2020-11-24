@@ -2,7 +2,7 @@
 
 require('controller/FrontController.php');
 
-$page = $_GET['page'];
+$page = $_GET['page'] ?? null;
 switch ($page) {
     case 'france': 
         france();
@@ -23,5 +23,3 @@ switch ($page) {
         accueil();
         break;
 }
-
-//test git 2
