@@ -1,4 +1,4 @@
-<?php $title = 'GBS France'; ?>
+<?php $title = 'GSB France'; ?>
 
 <?php ob_start(); ?>
 
